@@ -86,7 +86,7 @@ Like Mario collecting coins, I’m always leveling up my skills and exploring ne
   <b style="color:#e03c31; font-family: monospace; font-weight: 900; font-size: 1.5rem;">
     🔥 Streak Bonus
   </b><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjoseph07&theme=m" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjoseph07&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
