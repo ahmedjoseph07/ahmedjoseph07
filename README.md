@@ -11,8 +11,8 @@
 </h2>
 
 <p align="center">
-I’m a backend-focused full stack developer passionate about <b>building scalable, secure, and efficient applications</b>, and occasionally jumping over Koopas 🐢.<br/>
-My main expertise lies in <b>Next.js</b>, <b>Express.js</b>, <b>MongoDB</b>, and <b>PostgreSQL</b>, while I also craft interactive UIs using <b>React.js</b> and <b>Tailwind CSS</b>.<br/>
+I’m a full stack developer passionate about <b>building good looking, scalable, secure, and efficient applications</b>, and occasionally jumping over Koopas 🐢.<br/>
+My main expertise lies in <b>React.js</b> <b>Next.js</b>, <b>Express.js</b>, <b>MongoDB</b>, and <b>PostgreSQL</b>, while I also craft interactive UIs using <b>React.js</b> and <b>Tailwind CSS</b>.<br/>
 Like Mario collecting coins, I’m always leveling up my skills and exploring new technologies.
 </p>
 
@@ -23,6 +23,7 @@ Like Mario collecting coins, I’m always leveling up my skills and exploring ne
 </h2>
 
 <ul>
+<li>🔧 Optimizing frontend with <b>Next.js</b> and <b>Reac.js</b></li>
 <li>🍄 Exploring advanced backend architectures with <b>Next.js</b></li>
 <li>🌍 Building <b>AI-integrated web applications</b></li>
 <li>🔧 Powering up my <b>database optimization</b> skills</li>
