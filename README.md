@@ -23,7 +23,7 @@ Like Mario collecting coins, I’m always leveling up my skills and exploring ne
 </h2>
 
 <ul>
-<li>🔧 Optimizing frontend with <b>Next.js</b> and <b>Reac.js</b></li>
+<li>🔧 Optimizing frontend with <b>Next.js</b> and <b>React.js</b></li>
 <li>🍄 Exploring advanced backend architectures with <b>Next.js</b></li>
 <li>🌍 Building <b>AI-integrated web applications</b></li>
 <li>🔧 Powering up my <b>database optimization</b> skills</li>
