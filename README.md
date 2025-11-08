@@ -11,7 +11,7 @@
 </h2>
 
 <p align="center">
-I’m a full stack developer passionate about <b>building good looking, scalable, secure, and efficient applications</b>, and occasionally jumping over Koopas 🐢.<br/>
+I’m a full stack developer passionate about <b>building good looking, scalable, secure, and efficient applications</b>, and occasionally jumping over Koopas.<br/>
 My main expertise lies in <b>React.js</b> <b>Next.js</b>, <b>Express.js</b>, <b>MongoDB</b>, and <b>PostgreSQL</b>, while I also craft interactive UIs using <b>React.js</b> and <b>Tailwind CSS</b>.<br/>
 Like Mario collecting coins, I’m always leveling up my skills and exploring new technologies.
 </p>
