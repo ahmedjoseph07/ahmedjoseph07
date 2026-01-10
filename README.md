@@ -2,7 +2,7 @@
 ![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi, I’m Joseph Ahmed</h1>
-<h3 align="center">Backend | MERN Stack | Next.js & React | MongoDB & PostgreSQL | Cloud & AI Enthusiast</h3>
+<h3 align="center">Backend | MERN  & TypeScript | Next.js & React | MongoDB & PostgreSQL | Cloud & AI Enthusiast</h3>
 
 ---
 
@@ -41,12 +41,12 @@ Like Mario collecting coins, I’m always leveling up my skills and exploring ne
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css" alt="frontend skills" />
 </p>
 
-<h3>Backend</h3>
+<h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" alt="backend skills" />
 </p>
 
-<h3 >Tools</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="tools" />
 </p>
@@ -99,7 +99,7 @@ Like Mario collecting coins, I’m always leveling up my skills and exploring ne
 
 
 <h2 align="center" style="font-weight:bold; color:#e03c31; font-family: monospace;">
-  Level Up with Super Mario Vibes!
+  Level Up with Super Mario!!
 </h2>
 
 <p align="center">
