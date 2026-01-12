@@ -38,7 +38,7 @@ Like Mario collecting coins, I’m always leveling up my skills and exploring ne
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css" alt="frontend skills" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css" alt="frontend skills" />
 </p>
 
 <h3 align="center">Backend</h3>
