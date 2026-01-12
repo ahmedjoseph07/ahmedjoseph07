@@ -43,7 +43,7 @@ Like Mario collecting coins, I’m always leveling up my skills and exploring ne
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" alt="backend skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,docker" alt="backend skills" />
 </p>
 
 <h3 align="center">Tools</h3>
