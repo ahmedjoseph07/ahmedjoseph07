@@ -19,8 +19,8 @@
 
 ```text
 [  OK  ] Loaded role ........ Junior Software Developer @ Lab3 (promoted from Intern)
-[  OK  ] Loaded users ....... 250k users in current app 
-[  OK  ] Loaded volume ...... $6M+ USD / month (~$72M+ / year) transactions in my current app
+[  OK  ] Loaded users ....... 250k users handled in current app 
+[  OK  ] Loaded volume ...... $6M+ USD / month (~$72M+ / year) transactions handled in my current app
 [  OK  ] Loaded cloud ....... Google Cloud (Cloud Run, GKE, Cloud SQL)
 [  OK  ] Loaded compliance .. PCI DSS payments, HIPAA / PHI healthcare
 [  OK  ] Loaded location .... Chattogram, Bangladesh (remote, US team)
