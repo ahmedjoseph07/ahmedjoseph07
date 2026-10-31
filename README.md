@@ -19,8 +19,8 @@
 
 ```text
 [  OK  ] Loaded role ........ Junior Software Developer @ Lab3 (promoted from Intern)
-[  OK  ] Loaded users ....... 250k
-[  OK  ] Loaded volume ...... $6M+ USD / month (~$72M+ / year)
+[  OK  ] Loaded users ....... 250k users in current app 
+[  OK  ] Loaded volume ...... $6M+ USD / month (~$72M+ / year) transactions in my current app
 [  OK  ] Loaded cloud ....... Google Cloud (Cloud Run, GKE, Cloud SQL)
 [  OK  ] Loaded compliance .. PCI DSS payments, HIPAA / PHI healthcare
 [  OK  ] Loaded location .... Chattogram, Bangladesh (remote, US team)
@@ -33,7 +33,7 @@
 
 ```text
 PAYMENTS ....... tokenization, idempotency keys, signed webhooks (PCI DSS)
-HEALTHCARE ..... HL7 / FHIR EMR integrations, double-booking-proof scheduling
+HEALTHCARE ..... EMR integrations, double-booking-proof scheduling
 EVENT-DRIVEN ... Cloud Functions, Cloud Tasks, Pub/Sub, Cloud Scheduler,
                  retries, dead-letter queues
 INVENTORY ...... real-time sync across servers and third-party APIs
@@ -104,11 +104,6 @@ NOV 2025 - MAY    Full Stack Developer        Cypher Bangladesh (on-site)
 ---
 
 ## `> SYSTEM MONITOR`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedjoseph07&show_icons=true&hide_border=true&bg_color=0c0c0c&title_color=FFB000&text_color=FFB000&icon_color=FFB000" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjoseph07&layout=compact&hide_border=true&bg_color=0c0c0c&title_color=FFB000&text_color=FFB000" height="150" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmedjoseph07&hide_border=true&background=0c0c0c&stroke=FFB000&ring=FFB000&fire=FFB000&currStreakNum=FFB000&sideNums=FFB000&currStreakLabel=FFB000&sideLabels=FFB000&dates=B38000" alt="GitHub Streak" />
