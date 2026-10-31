@@ -1,48 +1,50 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=170&section=header&text=Joseph%20Ahmed&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Backend%20%26%20Cloud%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0c0c0c&height=18&section=header" width="100%" alt="" />
+
+```text
+    _  ___  ___ ___ ___ _  _     _   _  _ __  __ ___ ___
+ _ | |/ _ \/ __| __| _ \ || |   /_\ | || |  \/  | __|   \
+| || | (_) \__ \ _||  _/ __ |  / _ \| __ | |\/| | _|| |) |
+ \__/ \___/|___/___|_| |_||_| /_/ \_\_||_|_|  |_|___|___/
+
+ BACKEND & CLOUD ENGINEER  //  PAYMENTS  //  HEALTHCARE  //  AI AGENTS
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00FF9C&center=true&vCenter=true&width=760&lines=250k+users+%7C+%246M%2B+USD+in+monthly+transactions;PCI+DSS+payments+%2B+HIPAA+healthcare+systems;Event-driven+architecture+on+Google+Cloud;Agentic+workflows%2C+RAG+%26+MCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1200&color=FFB000&center=true&vCenter=true&width=760&lines=%3E+BOOTING+JOSEPH_AHMED.SYS...;%3E+250K+USERS+%7C+%246M%2B+USD+PER+MONTH;%3E+PCI+DSS+%2B+HIPAA+%2B+EVENT-DRIVEN+GCP;%3E+AGENTIC+WORKFLOWS+%7C+RAG+%7C+MCP;%3E+READY_" alt="Typing SVG" />
 </p>
 
 ---
 
-## `$ whoami`
+## `> BOOT SEQUENCE`
 
-```bash
-name       : Joseph Ahmed
-role       : Junior Software Developer @ Lab3 (promoted from Intern)
-focus      : Backend, Cloud, Security & Compliance, AI Agents
-location   : Chattogram, Bangladesh (working remote with a US team)
-education  : B.Sc. Petroleum & Mining Engineering, CUET (final year)
+```text
+[  OK  ] Loaded role ........ Junior Software Developer @ Lab3 (promoted from Intern)
+[  OK  ] Loaded users ....... 250k
+[  OK  ] Loaded volume ...... $6M+ USD / month (~$72M+ / year)
+[  OK  ] Loaded cloud ....... Google Cloud (Cloud Run, GKE, Cloud SQL)
+[  OK  ] Loaded compliance .. PCI DSS payments, HIPAA / PHI healthcare
+[  OK  ] Loaded location .... Chattogram, Bangladesh (remote, US team)
+[  OK  ] Loaded education ... B.Sc. Petroleum & Mining Eng., CUET (final year)
 ```
 
-I build and run production backends for US businesses: payments, healthcare records, event-driven pipelines, and AI agents.
+---
+
+## `> SYSTEMS ONLINE`
+
+```text
+PAYMENTS ....... tokenization, idempotency keys, signed webhooks (PCI DSS)
+HEALTHCARE ..... HL7 / FHIR EMR integrations, double-booking-proof scheduling
+EVENT-DRIVEN ... Cloud Functions, Cloud Tasks, Pub/Sub, Cloud Scheduler,
+                 retries, dead-letter queues
+INVENTORY ...... real-time sync across servers and third-party APIs
+AUTOMATION ..... Puppeteer scrapers, headless Chromium, proxy rotation
+AI ............. RAG on pgvector, MCP servers, tool-calling LLMs via OpenRouter,
+                 agent harness and loop engineering
+```
 
 ---
 
-## `$ cat production.log`
-
-| Metric | Value |
-| :-- | :-- |
-| Users served | **250k** |
-| Transactions | **$6M+ USD / month** (~$72M+ / year) |
-| Cloud | **Google Cloud** (Cloud Run, GKE, Cloud SQL) |
-| Compliance | **PCI DSS** payments, **HIPAA / PHI** healthcare |
-
----
-
-## `$ ls ~/work`
-
-- **Payments:** tokenization, idempotency keys, signed webhooks (PCI DSS)
-- **Healthcare:** HL7 / FHIR EMR integrations, appointment scheduling with double-booking prevention
-- **Event-driven:** Cloud Functions, Cloud Tasks, Pub/Sub, Cloud Scheduler, retries, dead-letter queues
-- **Inventory sync:** real-time across multiple servers and third-party APIs
-- **Automation:** Puppeteer scrapers, headless Chromium, proxy rotation
-- **AI:** RAG on pgvector, MCP servers, tool-calling LLMs via OpenRouter, agent harness and loop engineering
-
----
-
-## `$ ./stack --list`
+## `> INSTALLED PACKAGES`
 
 **Backend**
 
@@ -59,40 +61,40 @@ I build and run production backends for US businesses: payments, healthcare reco
 **Security & Compliance**
 
 <p>
-  <img src="https://img.shields.io/badge/PCI%20DSS-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=00ff9c" alt="PCI DSS" />
-  <img src="https://img.shields.io/badge/HIPAA-0d1117?style=for-the-badge&logo=shield&logoColor=00ff9c" alt="HIPAA" />
-  <img src="https://img.shields.io/badge/OAuth%202.0-0d1117?style=for-the-badge&logoColor=00ff9c" alt="OAuth 2.0" />
-  <img src="https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00ff9c" alt="JWT" />
-  <img src="https://img.shields.io/badge/RBAC-0d1117?style=for-the-badge&logoColor=00ff9c" alt="RBAC" />
-  <img src="https://img.shields.io/badge/AES--256-0d1117?style=for-the-badge&logoColor=00ff9c" alt="AES-256" />
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-0d1117?style=for-the-badge&logo=owasp&logoColor=00ff9c" alt="OWASP Top 10" />
+  <img src="https://img.shields.io/badge/PCI_DSS-FFB000?style=flat-square&labelColor=0c0c0c&color=FFB000" alt="PCI DSS" />
+  <img src="https://img.shields.io/badge/HIPAA-FFB000?style=flat-square&labelColor=0c0c0c&color=FFB000" alt="HIPAA" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-FFB000?style=flat-square&labelColor=0c0c0c&color=FFB000" alt="OAuth 2.0" />
+  <img src="https://img.shields.io/badge/JWT-FFB000?style=flat-square&labelColor=0c0c0c&color=FFB000" alt="JWT" />
+  <img src="https://img.shields.io/badge/RBAC-FFB000?style=flat-square&labelColor=0c0c0c&color=FFB000" alt="RBAC" />
+  <img src="https://img.shields.io/badge/AES--256-FFB000?style=flat-square&labelColor=0c0c0c&color=FFB000" alt="AES-256" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-FFB000?style=flat-square&labelColor=0c0c0c&color=FFB000" alt="OWASP Top 10" />
 </p>
 
 **AI**
 
 <p>
-  <img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=00ff9c" alt="RAG" />
-  <img src="https://img.shields.io/badge/pgvector-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff9c" alt="pgvector" />
-  <img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logoColor=00ff9c" alt="MCP" />
-  <img src="https://img.shields.io/badge/OpenRouter-0d1117?style=for-the-badge&logoColor=00ff9c" alt="OpenRouter" />
-  <img src="https://img.shields.io/badge/Agentic%20Workflows-0d1117?style=for-the-badge&logoColor=00ff9c" alt="Agentic Workflows" />
-  <img src="https://img.shields.io/badge/Claude%20Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=00ff9c" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&logo=cursor&logoColor=00ff9c" alt="Cursor" />
+  <img src="https://img.shields.io/badge/RAG-FFB000?style=flat-square&labelColor=0c0c0c&color=FFB000" alt="RAG" />
+  <img src="https://img.shields.io/badge/pgvector-FFB000?style=flat-square&labelColor=0c0c0c&color=FFB000" alt="pgvector" />
+  <img src="https://img.shields.io/badge/MCP-FFB000?style=flat-square&labelColor=0c0c0c&color=FFB000" alt="MCP" />
+  <img src="https://img.shields.io/badge/OpenRouter-FFB000?style=flat-square&labelColor=0c0c0c&color=FFB000" alt="OpenRouter" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-FFB000?style=flat-square&labelColor=0c0c0c&color=FFB000" alt="Agentic Workflows" />
+  <img src="https://img.shields.io/badge/Claude_Code-FFB000?style=flat-square&labelColor=0c0c0c&color=FFB000" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Cursor-FFB000?style=flat-square&labelColor=0c0c0c&color=FFB000" alt="Cursor" />
 </p>
 
 ---
 
-## `$ git log --career`
+## `> CAREER.LOG`
 
 ```text
-Sep 2026 - now   Junior Software Developer   Lab3 (Boston, USA, remote)   <- promoted
-May 2026 - Sep   Software Engineer Intern    Lab3
-Nov 2025 - May   Full Stack Developer        Cypher Bangladesh (on-site)
+SEP 2026 - NOW    Junior Software Developer   Lab3 (Boston, USA, remote)   [PROMOTED]
+MAY 2026 - SEP    Software Engineer Intern    Lab3
+NOV 2025 - MAY    Full Stack Developer        Cypher Bangladesh (on-site)
 ```
 
 ---
 
-## `$ ls ~/projects`
+## `> PROJECTS/`
 
 | Project | Stack | What it does |
 | :-- | :-- | :-- |
@@ -101,26 +103,30 @@ Nov 2025 - May   Full Stack Developer        Cypher Bangladesh (on-site)
 
 ---
 
-## `$ top`
+## `> SYSTEM MONITOR`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedjoseph07&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjoseph07&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedjoseph07&show_icons=true&hide_border=true&bg_color=0c0c0c&title_color=FFB000&text_color=FFB000&icon_color=FFB000" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjoseph07&layout=compact&hide_border=true&bg_color=0c0c0c&title_color=FFB000&text_color=FFB000" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmedjoseph07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ahmedjoseph07&hide_border=true&background=0c0c0c&stroke=FFB000&ring=FFB000&fire=FFB000&currStreakNum=FFB000&sideNums=FFB000&currStreakLabel=FFB000&sideLabels=FFB000&dates=B38000" alt="GitHub Streak" />
 </p>
 
 ---
 
-## `$ ping joseph`
+## `> OPEN CONNECTION`
 
 <p align="center">
-  <a href="https://github.com/ahmedjoseph07"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ahmedjoseph07/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ahmedjoseph11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/8801752025146"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://github.com/ahmedjoseph07"><img src="https://img.shields.io/badge/GITHUB-FFB000?style=for-the-badge&logo=github&logoColor=0c0c0c&labelColor=0c0c0c" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ahmedjoseph07/"><img src="https://img.shields.io/badge/LINKEDIN-FFB000?style=for-the-badge&logo=linkedin&logoColor=0c0c0c&labelColor=0c0c0c" alt="LinkedIn" /></a>
+  <a href="mailto:ahmedjoseph11@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FFB000?style=for-the-badge&logo=gmail&logoColor=0c0c0c&labelColor=0c0c0c" alt="Email" /></a>
+  <a href="https://wa.me/8801752025146"><img src="https://img.shields.io/badge/WHATSAPP-FFB000?style=for-the-badge&logo=whatsapp&logoColor=0c0c0c&labelColor=0c0c0c" alt="WhatsApp" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer" width="100%" alt="Footer" />
+```text
+> CONNECTION OPEN. AWAITING INPUT_
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0c0c0c&height=18&section=footer" width="100%" alt="" />
